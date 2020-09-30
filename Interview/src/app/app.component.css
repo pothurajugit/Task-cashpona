@@ -1,0 +1,15 @@
+.cardtop{
+    margin-top: 120px;
+    background-color: rgba(255, 255, 255, 0.5);
+    font-family: sans-serif;
+}
+.linear{
+    background: rgb(131,58,180);
+/* background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 0%, rgba(252,176,69,1) 100%); */
+background: rgb(255, 99, 47);
+background: linear-gradient(90deg, rgba(249,64,3,1) 45%, rgb(245, 31, 31) 54%);
+}
+span{
+    color: red;
+    font-size: 14px;
+}
