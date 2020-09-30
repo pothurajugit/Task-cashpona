@@ -1,0 +1,6 @@
+<input type="text" #data>
+<button type="submit" (click)="send(data)">Submit</button>
+
+
+
+<app-child [data]="data.value" *ngIf="dt" (click)=Closedata()></app-child>
